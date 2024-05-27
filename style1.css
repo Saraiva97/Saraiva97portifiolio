@@ -1135,7 +1135,7 @@ color: #000;
     }
     
     .clique{
-        opacity: 0.1;
+        opacity: 0.2;
         margin-top: 20px;
         margin-bottom:-30px;
         font-size: 30px;
@@ -1144,7 +1144,7 @@ color: #000;
     .clique:hover{
         
         cursor: pointer;
-        opacity: 0.4;
+        opacity: 0.8;
         transition:ease-out 0.5s;
     }
 
